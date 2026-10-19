@@ -1,2 +1,5 @@
-# Food-Roulette
-What do you want to eat? Decide by NCKU medical campus food roulette!
+# 成醫美食輪盤
+
+今天吃什麼？從成大醫學院出發，🚶 走路 1.2 公里／🛵 騎車 5 公里（實際路程）內、Google 評分 ≥ 4.6（飲料 ≥ 4.0）、評論超過 200 則的 295 家店，**只抽現在有開的店**。
+
+![screenshot](screenshot.png)
